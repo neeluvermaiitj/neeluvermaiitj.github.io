@@ -1,4 +1,4 @@
-![Neelu Verma](https://github.com/neeluvermaiitj/photo/blob/main/WhatsApp%20Image%202021-11-20%20at%201.10.11%20AM.jpeg)
+# Neelu Verma
 
 
 
