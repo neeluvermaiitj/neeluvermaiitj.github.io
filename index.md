@@ -8,4 +8,4 @@ _You can [Check My Profile](https://github.com/neeluvermaiitj/neeluvermaiitj.git
 - [LinkedIn](https://www.linkedin.com/in/neelu-verma-4146a8127/)
 - [V2LG_Group_IITJ](https://vl2g.github.io/people/)
 
-![Neelu Verma](https://github.com/neeluvermaiitj/photo/blob/main/4.jpeg)
+![Neelu Verma](https://github.com/neeluvermaiitj/photo/commit/2b182bc46e49063d97e6364a126f6b960c9a60b2)
